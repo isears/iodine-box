@@ -3,7 +3,7 @@
 ## Setup (requires internet connection)
 
 ```bash
-vagrant up
+vagrant up --provision
 ```
 
 ## Operation (requires dns only)
